@@ -1,5 +1,3 @@
-# CNN-Classification
-
 # Problem Statement
 This is a multi-class classification dataset from Kaggle featuring over 25,000 images of 150 X 150 distributed across 6 categories:
 {'buildings' -> 0,
